@@ -634,9 +634,9 @@ GEM
       unf_ext
     unf_ext (0.0.7.7)
     unicode-display_width (2.0.0)
-    unicode-emoji (2.8.0)
+    unicode-emoji (3.2.0)
       unicode-version (~> 1.0)
-    unicode-version (1.1.0)
+    unicode-version (1.2.0)
     vegas (0.1.11)
       rack (>= 1.0.0)
     web-console (3.7.0)
